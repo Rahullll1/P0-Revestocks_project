@@ -1,0 +1,6 @@
+Tools and Technologies used
+-- Python
+     ->Libraries : pandas, numpy, matplotlib, pyplot, tkinter
+
+
+
